@@ -1,0 +1,10 @@
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\bin\Debug\ProcessManagmentApp.exe.config
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\bin\Debug\ProcessManagmentApp.exe
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\bin\Debug\ProcessManagmentApp.pdb
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\obj\Debug\ProcessManagmentApp.csproj.AssemblyReference.cache
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\obj\Debug\ProcessManagmentApp.Form1.resources
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\obj\Debug\ProcessManagmentApp.Properties.Resources.resources
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\obj\Debug\ProcessManagmentApp.csproj.GenerateResource.cache
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\obj\Debug\ProcessManagmentApp.csproj.CoreCompileInputs.cache
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\obj\Debug\ProcessManagmentApp.exe
+D:\НУПП\ООП\lab31\.git\ProcessManagmentApp\obj\Debug\ProcessManagmentApp.pdb
